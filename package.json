@@ -1,0 +1,25 @@
+{
+  "name": "Logo-Generator",
+  "version": "1.0.0",
+  "description": "Challenge-10",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": "",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "node": "^20.0.0",
+    "svg.js": "^2.7.1"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
