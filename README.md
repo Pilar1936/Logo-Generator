@@ -13,6 +13,7 @@ Simple logo generator.
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
+- [Logo](#Logo)
 - [Video](#video)
 - [Questions](#questions)
 
@@ -32,6 +33,10 @@ N/A
 
 ## Tests
 Use the npm test command
+
+## Logo
+
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg"><polygon points="150, 18 244, 182 56, 182" fill="blue" /><text x="150" y="125" font-size="60" text-anchor="middle" fill="black">MJ</text></svg>
 
 ## Video
 https://drive.google.com/file/d/17WmVSAgSyzBy6M38t6F2V0dhPEFJY0Hb/view
