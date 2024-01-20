@@ -36,7 +36,7 @@ Use the npm test command
 
 ## Logo
 
-<img src="../Logo-Generator/examples/logo.svg">
+<img src="../Logo-Generator/examples/logo.PNG">
 
 ## Video
 https://drive.google.com/file/d/17WmVSAgSyzBy6M38t6F2V0dhPEFJY0Hb/view
